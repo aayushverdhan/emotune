@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-pink-100 via-purple-100 to-indigo-100 dark:from-gray-900 dark:via-gray-800 dark:to-black;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Neon Cards */
+.neon-card {
+  @apply bg-white/80 dark:bg-gray-900/80 backdrop-blur-xl shadow-xl rounded-2xl p-6 transition;
+  box-shadow: 0 0 20px rgba(255, 0, 200, 0.2);
+}
+
+/* Neon Buttons */
+.btn-primary {
+  @apply px-5 py-2 rounded-xl text-white font-semibold w-full;
+  background: linear-gradient(90deg, #ff4ecd, #a855f7);
+  box-shadow: 0 0 12px rgba(255, 0, 200, 0.5);
+}
+
+.btn-danger {
+  @apply px-5 py-2 rounded-xl text-white font-semibold w-full bg-red-500;
+  box-shadow: 0 0 12px rgba(255, 82, 82, 0.5);
+}
+
+.btn-secondary {
+  @apply px-5 py-2 rounded-xl bg-white/70 dark:bg-gray-800 text-black dark:text-white;
+}
+
+/* Navbar Glow */
+.nav-glow {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 15px rgba(255, 111, 255, 0.3);
+}
