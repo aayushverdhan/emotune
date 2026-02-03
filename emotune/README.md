@@ -14,10 +14,6 @@ EmoTune is an intelligent web application that analyzes your facial expressions 
 - **Therapy Mode**: Specialized playlists for emotional wellness and relaxation
 - **Progressive Web App**: Installable on mobile and desktop devices
 
-## 🚀 Demo
-
-[Live Demo](your-demo-link-here) | [Screenshots](#screenshots)
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19, React Router DOM
