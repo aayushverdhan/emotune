@@ -114,10 +114,6 @@ emotune/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) for facial recognition
@@ -125,10 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com) for styling
 - [Heroicons](https://heroicons.com) for beautiful icons
 
-## 📞 Support
-
-If you have any questions or run into issues, please [open an issue](https://github.com/yourusername/emotune/issues) or contact us at support@emotune.com.
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by Aayush Verdhan(https://github.com/aayushverdhan)**
